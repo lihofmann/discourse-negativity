@@ -1,0 +1,1681 @@
+success,rt,trial_type,trial_index,time_elapsed,internal_node_id,stimulus,response,slider_start,itemID,condition,tag,accuracy,participant_id,ctime
+TRUE,1113,fullscreen,0,2120,0.0-0.0-0.0,NA,NA,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1204,html-button-response,1,3330,0.0-0.0-1.0,"<p style='text-align:left'>In this experiment, you will read short conversations between two people. The first person always makes a statement, and the second responds to the first. We ask you to rate how natural the response to the statement is, on a slider from 'totally unnatural' to 'totally natural'.</p>          <p style='text-align:left'>In rating the responses, you should consider whether you might use these sentences or whether you think others might use them. There are no right or wrong answers here beyond your own intuition. You should answer each question as quickly as you can, but without rushing. Don't worry, this will be easy, and you will get a chance to practice this.</p>          <p style='text-align:left'> At the end of the experiment, we ask you some demographic questions (age, gender, native language).</p>          <h4>Consent to participate:</h4>          <p style='text-align:left' font size=""1""> By clicking on the button below you agree to participate in this experiment, which is conducted by researchers at the University of Stuttgart. Participation in this study should not consume more than 5 minutes of your time, and there are no risks or discomforts expected to result from participation. You are free to withdraw from this experiment at any time without penalty. Your data will be collected and treated anonymously and confidentially. It may be used for any subsequent data analysis and / or publication of results based on this experiment, and stored in electronic format indefinitely. If you have any questions, you may contact the requester through Prolific's platform, or directly at ac140440@uni-stuttgart.de.</p>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1274,html-button-response,2,4604,0.0-0.0-2.0-0.0,"<p style='text-align:left'>Okay, so let's start with our practice round. You will see a picture showing a situation where there is an imagined conversation between two people, and a sentence that describes the context of the conversation.</p>            <p style='text-align:left'> You should read the sentence and then press continue. Let's try it out.</p>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1516,html-button-response,3,6121,0.0-0.0-2.0-1.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p>,0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,959,html-button-response,4,7081,0.0-0.0-2.0-2.0,"<p style='text-align:left'>Then, you will see the first part of the conversation. It will show up as a statement in the first speech bubble.</p>            <p style='text-align:left'> As before, just read this statement, and press continue.</p>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1748,html-button-response,5,8830,0.0-0.0-2.0-3.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div>,0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1192,html-button-response,6,10024,0.0-0.0-2.0-4.0,"<p style='text-align:left'>Finally, you will read the response. Now, you will be asked to give a rating of how natural the response sounds as a reaction to the first statement.</p>            <p style='text-align:left'> Read the response, adjust the slider to reflect how natural the sentence sounds to you, and then press continue.</p>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1681,html-slider-response,7,11707,0.0-0.0-2.0-5.0,"<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div><div id='response' class='utterance'><p>Yeah, not even the most greedy ones.</p></div>",66,50,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1122,html-button-response,8,12830,0.0-0.0-2.0-6.0,"<p style='text-align:left'>Great, this is what you will be doing in the study. Let's begin.</p>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1192,html-button-response,9,14025,0.0-1.0-0.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1208,html-button-response,10,15234,0.0-1.0-1.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1458,html-slider-response,11,16694,0.0-1.0-2.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the caterer can tell you why not.</p></div>
+            </div>",68,50,14,notbelieve,whynot,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,736,html-button-response,12,17432,0.0-1.0-0.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,736,html-button-response,13,18169,0.0-1.0-1.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the warehouse crew didn't receive benefits in this period.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1297,html-slider-response,14,19467,0.0-1.0-2.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the warehouse crew didn't receive benefits in this period.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and now management has to explain why not.</p></div>
+            </div>",62,50,4,thinknot,whynot,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,592,html-button-response,15,20060,0.0-1.0-0.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,505,html-button-response,16,20566,0.0-1.0-1.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the defense lawyer's closing statement made an impact in this case.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1137,html-slider-response,17,21705,0.0-1.0-2.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the defense lawyer's closing statement made an impact in this case.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the testimonies.</p></div>
+            </div>",65,50,6,notopinion,neither,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,600,html-button-response,18,22306,0.0-1.0-0.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,368,html-button-response,19,22675,0.0-1.0-1.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the coal miners talked to the press this week.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1490,html-slider-response,20,24166,0.0-1.0-2.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the coal miners talked to the press this week.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the reporters understood why not.</p></div>
+            </div>",64,50,12,notview,whynot,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,680,html-button-response,21,24847,0.0-1.0-0.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,520,html-button-response,22,25368,0.0-1.0-1.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the students in my class improved their grades this semester.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1258,html-slider-response,23,26628,0.0-1.0-2.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the students in my class improved their grades this semester.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and we need to figure out why not.</p></div>
+            </div>",69,50,5,notimpression,whynot,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,575,html-button-response,24,27204,0.0-1.0-0.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,585,html-button-response,25,27790,0.0-1.0-1.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the park rangers fed the lions this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1963,html-slider-response,26,29753,0.0-1.0-2.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the park rangers fed the lions this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the deputy wardens.</p></div>
+            </div>",60,50,7,wrong,neither,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,616,html-button-response,27,30370,0.0-1.0-0.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,408,html-button-response,28,30780,0.0-1.0-1.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the pianists played Beethoven sonatas at the competition.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1153,html-slider-response,29,31934,0.0-1.0-2.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the pianists played Beethoven sonatas at the competition.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even the less famous ones.</p></div>
+            </div>",66,50,8,notfeeling,noteven,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,608,html-button-response,30,32544,0.0-1.0-0.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,432,html-button-response,31,32976,0.0-1.0-1.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>These athletes are really careless about injury prevention. As if the home team really warmed up their muscles before the game.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1131,html-slider-response,32,34108,0.0-1.0-2.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>These athletes are really careless about injury prevention. As if the home team really warmed up their muscles before the game.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even for five minutes.</p></div>
+            </div>",68,50,11,asif,noteven,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,718,html-button-response,33,34828,0.0-1.0-0.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,392,html-button-response,34,35221,0.0-1.0-1.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the party planning committee made an effort this year.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1274,html-slider-response,35,36496,0.0-1.0-2.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the party planning committee made an effort this year.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and it's pretty clear why not.</p></div>
+            </div>",61,50,1,lie,whynot,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,640,html-button-response,36,37137,0.0-1.0-0.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,312,html-button-response,37,37450,0.0-1.0-1.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the delegates narrowed down possible target dates in the final resolution.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1113,html-slider-response,38,38563,0.0-1.0-2.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the delegates narrowed down possible target dates in the final resolution.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the chair of the session.</p></div>
+            </div>",71,50,3,disagree,neither,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,617,html-button-response,39,39181,0.0-1.0-0.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,304,html-button-response,40,39486,0.0-1.0-1.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1160,html-slider-response,41,40648,0.0-1.0-2.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even after they were pointed out publicly.</p></div>
+            </div>",65,50,15,rumor,noteven,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,753,html-button-response,42,41402,0.0-1.0-0.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,304,html-button-response,43,41707,0.0-1.0-1.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the new daytime drama on TV grew its viewership last month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,2451,html-slider-response,44,44159,0.0-1.0-2.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the new daytime drama on TV grew its viewership last month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the news shows.</p></div>
+            </div>",63,50,9,notthink,neither,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1089,html-button-response,45,45249,0.0-1.0-0.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,384,html-button-response,46,45634,0.0-1.0-1.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the volunteers performed many administrative tasks this month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1186,html-slider-response,47,46821,0.0-1.0-2.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the volunteers performed many administrative tasks this month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even simple scheduling tasks.</p></div>
+            </div>",67,50,2,think,noteven,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,936,html-button-response,48,47758,0.0-1.0-0.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,328,html-button-response,49,48086,0.0-1.0-1.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the public universities had to follow the new tax laws.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1442,html-slider-response,50,49530,0.0-1.0-2.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the public universities had to follow the new tax laws.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even the proficatble ones.</p></div>
+            </div>",63,50,13,doubt,noteven,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,656,html-button-response,51,50187,0.0-1.0-0.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,296,html-button-response,52,50484,0.0-1.0-1.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I bet some of our colleagues are involved in the cover-up. Like the reporters really interviewed the whistleblowers this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,1025,html-slider-response,53,51510,0.0-1.0-2.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I bet some of our colleagues are involved in the cover-up. Like the reporters really interviewed the whistleblowers this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the investigators.</p></div>
+            </div>",69,50,10,like,neither,NA,46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+NA,17201,survey,54,68788,0.0-2.0-0.0,NA,"{""P0_Q0"":null,""age"":""1"",""gender"":""female"",""language"":""yes"",""amE"":""no"",""comments"":""good stuff! :)""}",NA,NA,NA,NA,[],46d15935-3af2-4a89-a7e4-8f7aae6d640c,2023-11-20 20:21:39 CET
+TRUE,5489,fullscreen,0,6505,0.0-0.0-0.0,NA,NA,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,71545,html-button-response,1,78052,0.0-0.0-1.0,"<p style='text-align:left'>In this experiment, you will read short conversations between two people. The first person always makes a statement, and the second responds to the first. We ask you to rate how natural the response to the statement is, on a slider from 'totally unnatural' to 'totally natural'.</p>          <p style='text-align:left'>In rating the responses, you should consider whether you might use these sentences or whether you think others might use them. There are no right or wrong answers here beyond your own intuition. You should answer each question as quickly as you can, but without rushing. Don't worry, this will be easy, and you will get a chance to practice this.</p>          <p style='text-align:left'> At the end of the experiment, we ask you some demographic questions (age, gender, native language).</p>          <h4>Consent to participate:</h4>          <p style='text-align:left' font size=""1""> By clicking on the button below you agree to participate in this experiment, which is conducted by researchers at the University of Stuttgart. Participation in this study should not consume more than 5 minutes of your time, and there are no risks or discomforts expected to result from participation. You are free to withdraw from this experiment at any time without penalty. Your data will be collected and treated anonymously and confidentially. It may be used for any subsequent data analysis and / or publication of results based on this experiment, and stored in electronic format indefinitely. If you have any questions, you may contact the requester through Prolific's platform, or directly at ac140440@uni-stuttgart.de.</p>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,13603,html-button-response,2,91656,0.0-0.0-2.0-0.0,"<p style='text-align:left'>Okay, so let's start with our practice round. You will see a picture showing a situation where there is an imagined conversation between two people, and a sentence that describes the context of the conversation.</p>            <p style='text-align:left'> You should read the sentence and then press continue. Let's try it out.</p>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,6480,html-button-response,3,98136,0.0-0.0-2.0-1.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p>,0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,7402,html-button-response,4,105539,0.0-0.0-2.0-2.0,"<p style='text-align:left'>Then, you will see the first part of the conversation. It will show up as a statement in the first speech bubble.</p>            <p style='text-align:left'> As before, just read this statement, and press continue.</p>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,9959,html-button-response,5,115498,0.0-0.0-2.0-3.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div>,0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,3818,html-button-response,6,119317,0.0-0.0-2.0-4.0,"<p style='text-align:left'>Finally, you will read the response. Now, you will be asked to give a rating of how natural the response sounds as a reaction to the first statement.</p>            <p style='text-align:left'> Read the response, adjust the slider to reflect how natural the sentence sounds to you, and then press continue.</p>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,5871,html-slider-response,7,125190,0.0-0.0-2.0-5.0,"<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div><div id='response' class='utterance'><p>Yeah, not even the most greedy ones.</p></div>",100,50,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,3718,html-button-response,8,128909,0.0-0.0-2.0-6.0,"<p style='text-align:left'>Great, this is what you will be doing in the study. Let's begin.</p>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,5226,html-button-response,9,134137,0.0-1.0-0.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,6525,html-button-response,10,140662,0.0-1.0-1.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the party planning committee made an effort this year.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,6695,html-slider-response,11,147359,0.0-1.0-2.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the party planning committee made an effort this year.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even with the catering.</p></div>
+            </div>",100,50,1,notimpression,noteven,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,11286,html-button-response,12,158647,0.0-1.0-0.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,9749,html-button-response,13,168397,0.0-1.0-1.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the coal miners talked to the press this week.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4709,html-slider-response,14,173108,0.0-1.0-2.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the coal miners talked to the press this week.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the reporters understood why not.</p></div>
+            </div>",24,50,12,notview,whynot,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,6021,html-button-response,15,179129,0.0-1.0-0.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,18082,html-button-response,16,197212,0.0-1.0-1.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the students in my class didn't improve their grades this semester.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4238,html-slider-response,17,201451,0.0-1.0-2.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the students in my class didn't improve their grades this semester.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even after extensive tutoring.</p></div>
+            </div>",98,50,5,thinknot,noteven,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,11083,html-button-response,18,212534,0.0-1.0-0.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,13403,html-button-response,19,225938,0.0-1.0-1.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the delegates narrowed down possible target dates in the final resolution.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,3854,html-slider-response,20,229793,0.0-1.0-2.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the delegates narrowed down possible target dates in the final resolution.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and it's no mystery why not.</p></div>
+            </div>",100,50,3,wrong,whynot,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,12165,html-button-response,21,241958,0.0-1.0-0.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,9126,html-button-response,22,251085,0.0-1.0-1.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>The defendant had horrible representation.  Like the defense lawyer's closing statement really made an impact in this case.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,6217,html-slider-response,23,257302,0.0-1.0-2.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>The defendant had horrible representation.  Like the defense lawyer's closing statement really made an impact in this case.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the testimonies.</p></div>
+            </div>",100,50,6,like,neither,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,11684,html-button-response,24,268987,0.0-1.0-0.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,7530,html-button-response,25,276517,0.0-1.0-1.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the volunteers performed many administrative tasks this month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,3052,html-slider-response,26,279570,0.0-1.0-2.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the volunteers performed many administrative tasks this month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even simple scheduling tasks.</p></div>
+            </div>",97,50,2,disagree,noteven,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,12967,html-button-response,27,292538,0.0-1.0-0.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4942,html-button-response,28,297480,0.0-1.0-1.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the reporters interviewed the whistleblowers this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,5992,html-slider-response,29,303473,0.0-1.0-2.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the reporters interviewed the whistleblowers this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the investigators.</p></div>
+            </div>",17,50,10,notopinion,neither,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,5062,html-button-response,30,308535,0.0-1.0-0.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,19507,html-button-response,31,328044,0.0-1.0-1.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>The musicians stopped playing very famous pieces. As if the pianists really played Beethoven sonatas at the competition.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,11699,html-slider-response,32,339744,0.0-1.0-2.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>The musicians stopped playing very famous pieces. As if the pianists really played Beethoven sonatas at the competition.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and I think I can guess why not.</p></div>
+            </div>",85,50,8,asif,whynot,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,3314,html-button-response,33,343059,0.0-1.0-0.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4800,html-button-response,34,347859,0.0-1.0-1.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,6726,html-slider-response,35,354587,0.0-1.0-2.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the organizers.</p></div>
+            </div>",100,50,14,notbelieve,neither,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4755,html-button-response,36,359342,0.0-1.0-0.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4642,html-button-response,37,363985,0.0-1.0-1.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4236,html-slider-response,38,368222,0.0-1.0-2.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the association of medical doctors.</p></div>
+            </div>",97,50,15,notfeeling,neither,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,33360,html-button-response,39,401582,0.0-1.0-0.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,63676,html-button-response,40,465258,0.0-1.0-1.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the warehouse crew received benefits in this period.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,3097,html-slider-response,41,468356,0.0-1.0-2.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the warehouse crew received benefits in this period.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even their basic health insurance.</p></div>
+            </div>",100,50,4,rumor,noteven,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,2940,html-button-response,42,471296,0.0-1.0-0.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4582,html-button-response,43,475879,0.0-1.0-1.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the public universities had to follow the new tax laws.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,3674,html-slider-response,44,479554,0.0-1.0-2.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the public universities had to follow the new tax laws.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the lawyers explained why not.</p></div>
+            </div>",99,50,13,notthink,whynot,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,50807,html-button-response,45,530361,0.0-1.0-0.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,8181,html-button-response,46,538543,0.0-1.0-1.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the home team warmed up their muscles before the game.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4417,html-slider-response,47,542960,0.0-1.0-2.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the home team warmed up their muscles before the game.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even for five minutes.</p></div>
+            </div>",100,50,11,doubt,noteven,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,15629,html-button-response,48,558590,0.0-1.0-0.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,5017,html-button-response,49,563607,0.0-1.0-1.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the new daytime drama on TV grew its viewership last month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,26054,html-slider-response,50,589663,0.0-1.0-2.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the new daytime drama on TV grew its viewership last month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the news shows.</p></div>
+            </div>",100,50,9,lie,neither,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,24428,html-button-response,51,614092,0.0-1.0-0.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,4589,html-button-response,52,618681,0.0-1.0-1.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the park rangers fed the lions this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,9651,html-slider-response,53,628334,0.0-1.0-2.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the park rangers fed the lions this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and I can imagine why not.</p></div>
+            </div>",15,50,7,think,whynot,NA,8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+NA,15230,survey,54,643625,0.0-2.0-0.0,NA,"{""P0_Q0"":null,""age"":""53"",""gender"":""female"",""language"":""yes"",""amE"":""yes"",""comments"":""""}",NA,NA,NA,NA,[],8069cb6d-91ef-45cc-b9f0-8362251289b9,2023-11-20 23:06:13 CET
+TRUE,4262,fullscreen,0,5286,0.0-0.0-0.0,NA,NA,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,7116,html-button-response,1,12405,0.0-0.0-1.0,"<p style='text-align:left'>In this experiment, you will read short conversations between two people. The first person always makes a statement, and the second responds to the first. We ask you to rate how natural the response to the statement is, on a slider from 'totally unnatural' to 'totally natural'.</p>          <p style='text-align:left'>In rating the responses, you should consider whether you might use these sentences or whether you think others might use them. There are no right or wrong answers here beyond your own intuition. You should answer each question as quickly as you can, but without rushing. Don't worry, this will be easy, and you will get a chance to practice this.</p>          <p style='text-align:left'> At the end of the experiment, we ask you some demographic questions (age, gender, native language).</p>          <h4>Consent to participate:</h4>          <p style='text-align:left' font size=""1""> By clicking on the button below you agree to participate in this experiment, which is conducted by researchers at the University of Stuttgart. Participation in this study should not consume more than 5 minutes of your time, and there are no risks or discomforts expected to result from participation. You are free to withdraw from this experiment at any time without penalty. Your data will be collected and treated anonymously and confidentially. It may be used for any subsequent data analysis and / or publication of results based on this experiment, and stored in electronic format indefinitely. If you have any questions, you may contact the requester through Prolific's platform, or directly at ac140440@uni-stuttgart.de.</p>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,9812,html-button-response,2,22219,0.0-0.0-2.0-0.0,"<p style='text-align:left'>Okay, so let's start with our practice round. You will see a picture showing a situation where there is an imagined conversation between two people, and a sentence that describes the context of the conversation.</p>            <p style='text-align:left'> You should read the sentence and then press continue. Let's try it out.</p>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,4049,html-button-response,3,26269,0.0-0.0-2.0-1.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p>,0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3858,html-button-response,4,30128,0.0-0.0-2.0-2.0,"<p style='text-align:left'>Then, you will see the first part of the conversation. It will show up as a statement in the first speech bubble.</p>            <p style='text-align:left'> As before, just read this statement, and press continue.</p>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,6827,html-button-response,5,36956,0.0-0.0-2.0-3.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div>,0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,6616,html-button-response,6,43574,0.0-0.0-2.0-4.0,"<p style='text-align:left'>Finally, you will read the response. Now, you will be asked to give a rating of how natural the response sounds as a reaction to the first statement.</p>            <p style='text-align:left'> Read the response, adjust the slider to reflect how natural the sentence sounds to you, and then press continue.</p>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,11268,html-slider-response,7,54844,0.0-0.0-2.0-5.0,"<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div><div id='response' class='utterance'><p>Yeah, not even the most greedy ones.</p></div>",24,50,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1377,html-button-response,8,56222,0.0-0.0-2.0-6.0,"<p style='text-align:left'>Great, this is what you will be doing in the study. Let's begin.</p>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,2727,html-button-response,9,58950,0.0-1.0-0.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3861,html-button-response,10,62813,0.0-1.0-1.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>The outdoor staff have been slacking off recently. As if the park rangers really fed the lions this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,12768,html-slider-response,11,75584,0.0-1.0-2.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>The outdoor staff have been slacking off recently. As if the park rangers really fed the lions this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the deputy wardens.</p></div>
+            </div>",31,50,7,asif,neither,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1726,html-button-response,12,77311,0.0-1.0-0.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,4349,html-button-response,13,81661,0.0-1.0-1.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the students in my class didn't improve their grades this semester.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,5046,html-slider-response,14,86708,0.0-1.0-2.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the students in my class didn't improve their grades this semester.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and we need to figure out why not.</p></div>
+            </div>",54,50,5,thinknot,whynot,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,2276,html-button-response,15,88986,0.0-1.0-0.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,5734,html-button-response,16,94722,0.0-1.0-1.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the new daytime drama on TV grew its viewership last month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,8173,html-slider-response,17,102897,0.0-1.0-2.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the new daytime drama on TV grew its viewership last month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the network is investigating why not.</p></div>
+            </div>",12,50,9,notfeeling,whynot,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,2745,html-button-response,18,105644,0.0-1.0-0.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,4279,html-button-response,19,109924,0.0-1.0-1.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the public universities had to follow the new tax laws.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,4515,html-slider-response,20,114441,0.0-1.0-2.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the public universities had to follow the new tax laws.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even the proficatble ones.</p></div>
+            </div>",38,50,13,rumor,noteven,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1640,html-button-response,21,116082,0.0-1.0-0.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3739,html-button-response,22,119822,0.0-1.0-1.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the reporters interviewed the whistleblowers this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3446,html-slider-response,23,123270,0.0-1.0-2.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the reporters interviewed the whistleblowers this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even the ones that are famous.</p></div>
+            </div>",10,50,10,notimpression,noteven,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1581,html-button-response,24,124852,0.0-1.0-0.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,26282,html-button-response,25,151136,0.0-1.0-1.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,8635,html-slider-response,26,159773,0.0-1.0-2.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the caterer can tell you why not.</p></div>
+            </div>",76,50,14,notbelieve,whynot,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1330,html-button-response,27,161104,0.0-1.0-0.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,6603,html-button-response,28,167709,0.0-1.0-1.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the pianists played Beethoven sonatas at the competition.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,2795,html-slider-response,29,170506,0.0-1.0-2.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the pianists played Beethoven sonatas at the competition.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the violinists.</p></div>
+            </div>",69,50,8,doubt,neither,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3549,html-button-response,30,174056,0.0-1.0-0.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3195,html-button-response,31,177252,0.0-1.0-1.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the home team warmed up their muscles before the game.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,2491,html-slider-response,32,179745,0.0-1.0-2.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the home team warmed up their muscles before the game.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even for five minutes.</p></div>
+            </div>",69,50,11,lie,noteven,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1249,html-button-response,33,180995,0.0-1.0-0.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,6644,html-button-response,34,187640,0.0-1.0-1.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the coal miners talked to the press this week.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,25099,html-slider-response,35,212741,0.0-1.0-2.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the coal miners talked to the press this week.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the reporters understood why not.</p></div>
+            </div>",29,50,12,notopinion,whynot,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1587,html-button-response,36,214329,0.0-1.0-0.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,4880,html-button-response,37,219210,0.0-1.0-1.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,4500,html-slider-response,38,223712,0.0-1.0-2.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the association of medical doctors.</p></div>
+            </div>",25,50,15,wrong,neither,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1149,html-button-response,39,224863,0.0-1.0-0.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,5432,html-button-response,40,230296,0.0-1.0-1.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the volunteers performed many administrative tasks this month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,5104,html-slider-response,41,235401,0.0-1.0-2.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the volunteers performed many administrative tasks this month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and I'm left wondering why not.</p></div>
+            </div>",9,50,2,think,whynot,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,2081,html-button-response,42,237484,0.0-1.0-0.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1853,html-button-response,43,239338,0.0-1.0-1.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the party planning committee made an effort this year.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3832,html-slider-response,44,243171,0.0-1.0-2.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the party planning committee made an effort this year.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even with the catering.</p></div>
+            </div>",82,50,1,notthink,noteven,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,2380,html-button-response,45,245552,0.0-1.0-0.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3727,html-button-response,46,249280,0.0-1.0-1.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the warehouse crew received benefits in this period.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3287,html-slider-response,47,252569,0.0-1.0-2.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the warehouse crew received benefits in this period.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the office workers.</p></div>
+            </div>",80,50,4,disagree,neither,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1022,html-button-response,48,253592,0.0-1.0-0.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,5249,html-button-response,49,258843,0.0-1.0-1.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the delegates narrowed down possible target dates in the final resolution.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,3134,html-slider-response,50,261978,0.0-1.0-2.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the delegates narrowed down possible target dates in the final resolution.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the chair of the session.</p></div>
+            </div>",59,50,3,notview,neither,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,1157,html-button-response,51,263137,0.0-1.0-0.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,4284,html-button-response,52,267423,0.0-1.0-1.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>The defendant had horrible representation.  Like the defense lawyer's closing statement really made an impact in this case.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,4804,html-slider-response,53,272229,0.0-1.0-2.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>The defendant had horrible representation.  Like the defense lawyer's closing statement really made an impact in this case.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even on the public perception.</p></div>
+            </div>",44,50,6,like,noteven,NA,47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+NA,7317,survey,54,279610,0.0-2.0-0.0,NA,"{""P0_Q0"":null,""age"":""22"",""gender"":""female"",""language"":""yes"",""amE"":""yes"",""comments"":""""}",NA,NA,NA,NA,[],47f02322-0042-4905-8a7b-ad0b0d96bcb6,2023-11-20 23:10:59 CET
+TRUE,2630,fullscreen,0,3638,0.0-0.0-0.0,NA,NA,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,1770,html-button-response,1,5409,0.0-0.0-1.0,"<p style='text-align:left'>In this experiment, you will read short conversations between two people. The first person always makes a statement, and the second responds to the first. We ask you to rate how natural the response to the statement is, on a slider from 'totally unnatural' to 'totally natural'.</p>          <p style='text-align:left'>In rating the responses, you should consider whether you might use these sentences or whether you think others might use them. There are no right or wrong answers here beyond your own intuition. You should answer each question as quickly as you can, but without rushing. Don't worry, this will be easy, and you will get a chance to practice this.</p>          <p style='text-align:left'> At the end of the experiment, we ask you some demographic questions (age, gender, native language).</p>          <h4>Consent to participate:</h4>          <p style='text-align:left' font size=""1""> By clicking on the button below you agree to participate in this experiment, which is conducted by researchers at the University of Stuttgart. Participation in this study should not consume more than 5 minutes of your time, and there are no risks or discomforts expected to result from participation. You are free to withdraw from this experiment at any time without penalty. Your data will be collected and treated anonymously and confidentially. It may be used for any subsequent data analysis and / or publication of results based on this experiment, and stored in electronic format indefinitely. If you have any questions, you may contact the requester through Prolific's platform, or directly at ac140440@uni-stuttgart.de.</p>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,5517,html-button-response,2,10926,0.0-0.0-2.0-0.0,"<p style='text-align:left'>Okay, so let's start with our practice round. You will see a picture showing a situation where there is an imagined conversation between two people, and a sentence that describes the context of the conversation.</p>            <p style='text-align:left'> You should read the sentence and then press continue. Let's try it out.</p>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,6500,html-button-response,3,17427,0.0-0.0-2.0-1.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p>,0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,5830,html-button-response,4,23257,0.0-0.0-2.0-2.0,"<p style='text-align:left'>Then, you will see the first part of the conversation. It will show up as a statement in the first speech bubble.</p>            <p style='text-align:left'> As before, just read this statement, and press continue.</p>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,9343,html-button-response,5,32601,0.0-0.0-2.0-3.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div>,0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,9118,html-button-response,6,41719,0.0-0.0-2.0-4.0,"<p style='text-align:left'>Finally, you will read the response. Now, you will be asked to give a rating of how natural the response sounds as a reaction to the first statement.</p>            <p style='text-align:left'> Read the response, adjust the slider to reflect how natural the sentence sounds to you, and then press continue.</p>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,13689,html-slider-response,7,55409,0.0-0.0-2.0-5.0,"<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div><div id='response' class='utterance'><p>Yeah, not even the most greedy ones.</p></div>",25,50,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,1678,html-button-response,8,57088,0.0-0.0-2.0-6.0,"<p style='text-align:left'>Great, this is what you will be doing in the study. Let's begin.</p>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,6970,html-button-response,9,64059,0.0-1.0-0.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,13210,html-button-response,10,77269,0.0-1.0-1.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the warehouse crew received benefits in this period.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,13569,html-slider-response,11,90839,0.0-1.0-2.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the warehouse crew received benefits in this period.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even their basic health insurance.</p></div>
+            </div>",68,50,4,lie,noteven,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,17223,html-button-response,12,108064,0.0-1.0-0.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,3170,html-button-response,13,111234,0.0-1.0-1.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the coal miners talked to the press this week.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,8937,html-slider-response,14,120171,0.0-1.0-2.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the coal miners talked to the press this week.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the reporters understood why not.</p></div>
+            </div>",73,50,12,notthink,whynot,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2365,html-button-response,15,122537,0.0-1.0-0.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,10513,html-button-response,16,133050,0.0-1.0-1.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,26426,html-slider-response,17,159477,0.0-1.0-2.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the organizers.</p></div>
+            </div>",40,50,14,rumor,neither,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,3545,html-button-response,18,163023,0.0-1.0-0.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,3569,html-button-response,19,166592,0.0-1.0-1.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,14719,html-slider-response,20,181311,0.0-1.0-2.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the attendees questioned why not.</p></div>
+            </div>",31,50,15,notview,whynot,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,6478,html-button-response,21,187790,0.0-1.0-0.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,8927,html-button-response,22,196717,0.0-1.0-1.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>All of our colleagues are lazy. Like the volunteers really performed many administrative tasks this month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,7674,html-slider-response,23,204392,0.0-1.0-2.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>All of our colleagues are lazy. Like the volunteers really performed many administrative tasks this month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even simple scheduling tasks.</p></div>
+            </div>",72,50,2,like,noteven,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2555,html-button-response,24,206948,0.0-1.0-0.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,7695,html-button-response,25,214644,0.0-1.0-1.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the new daytime drama on TV grew its viewership last month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4049,html-slider-response,26,218693,0.0-1.0-2.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the new daytime drama on TV grew its viewership last month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the news shows.</p></div>
+            </div>",77,50,9,wrong,neither,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,1642,html-button-response,27,220335,0.0-1.0-0.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2592,html-button-response,28,222928,0.0-1.0-1.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the students in my class improved their grades this semester.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4939,html-slider-response,29,227868,0.0-1.0-2.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the students in my class improved their grades this semester.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the students in the other classes.</p></div>
+            </div>",87,50,5,doubt,neither,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2459,html-button-response,30,230327,0.0-1.0-0.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4225,html-button-response,31,234553,0.0-1.0-1.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I bet some of our colleagues are involved in the cover-up. As if the reporters really interviewed the whistleblowers this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,7491,html-slider-response,32,242045,0.0-1.0-2.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I bet some of our colleagues are involved in the cover-up. As if the reporters really interviewed the whistleblowers this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and we can only guess why not.</p></div>
+            </div>",38,50,10,asif,whynot,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2565,html-button-response,33,244611,0.0-1.0-0.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,3563,html-button-response,34,248174,0.0-1.0-1.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the pianists didn't play Beethoven sonatas at the competition.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4455,html-slider-response,35,252630,0.0-1.0-2.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the pianists didn't play Beethoven sonatas at the competition.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even the less famous ones.</p></div>
+            </div>",80,50,8,thinknot,noteven,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2098,html-button-response,36,254728,0.0-1.0-0.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4907,html-button-response,37,259635,0.0-1.0-1.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the delegates narrowed down possible target dates in the final resolution.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,3382,html-slider-response,38,263018,0.0-1.0-2.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the delegates narrowed down possible target dates in the final resolution.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the chair of the session.</p></div>
+            </div>",84,50,3,notimpression,neither,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4620,html-button-response,39,267638,0.0-1.0-0.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,1785,html-button-response,40,269423,0.0-1.0-1.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the park rangers fed the lions this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,11644,html-slider-response,41,281068,0.0-1.0-2.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the park rangers fed the lions this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even when they were asked to.</p></div>
+            </div>",72,50,7,think,noteven,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,1811,html-button-response,42,282879,0.0-1.0-0.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,7550,html-button-response,43,290430,0.0-1.0-1.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the party planning committee made an effort this year.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4263,html-slider-response,44,294693,0.0-1.0-2.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the party planning committee made an effort this year.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and it's pretty clear why not.</p></div>
+            </div>",90,50,1,notbelieve,whynot,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2836,html-button-response,45,297529,0.0-1.0-0.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4259,html-button-response,46,301790,0.0-1.0-1.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the home team warmed up their muscles before the game.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,3489,html-slider-response,47,305280,0.0-1.0-2.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the home team warmed up their muscles before the game.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the other team.</p></div>
+            </div>",85,50,11,disagree,neither,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2310,html-button-response,48,307591,0.0-1.0-0.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2716,html-button-response,49,310307,0.0-1.0-1.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the public universities had to follow the new tax laws.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4005,html-slider-response,50,314313,0.0-1.0-2.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the public universities had to follow the new tax laws.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the lawyers explained why not.</p></div>
+            </div>",68,50,13,notopinion,whynot,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,2314,html-button-response,51,316627,0.0-1.0-0.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4425,html-button-response,52,321052,0.0-1.0-1.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the defense lawyer's closing statement made an impact in this case.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,4663,html-slider-response,53,325716,0.0-1.0-2.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the defense lawyer's closing statement made an impact in this case.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even on the public perception.</p></div>
+            </div>",80,50,6,notfeeling,noteven,NA,14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+NA,10055,survey,54,335812,0.0-2.0-0.0,NA,"{""P0_Q0"":null,""age"":""19"",""gender"":""male"",""language"":""yes"",""amE"":""yes"",""comments"":""""}",NA,NA,NA,NA,[],14278193-caf6-4812-9d8e-e2f3da868437,2023-11-20 23:15:53 CET
+TRUE,2101,fullscreen,0,3109,0.0-0.0-0.0,NA,NA,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,1651,html-button-response,1,4762,0.0-0.0-1.0,"<p style='text-align:left'>In this experiment, you will read short conversations between two people. The first person always makes a statement, and the second responds to the first. We ask you to rate how natural the response to the statement is, on a slider from 'totally unnatural' to 'totally natural'.</p>          <p style='text-align:left'>In rating the responses, you should consider whether you might use these sentences or whether you think others might use them. There are no right or wrong answers here beyond your own intuition. You should answer each question as quickly as you can, but without rushing. Don't worry, this will be easy, and you will get a chance to practice this.</p>          <p style='text-align:left'> At the end of the experiment, we ask you some demographic questions (age, gender, native language).</p>          <h4>Consent to participate:</h4>          <p style='text-align:left' font size=""1""> By clicking on the button below you agree to participate in this experiment, which is conducted by researchers at the University of Stuttgart. Participation in this study should not consume more than 5 minutes of your time, and there are no risks or discomforts expected to result from participation. You are free to withdraw from this experiment at any time without penalty. Your data will be collected and treated anonymously and confidentially. It may be used for any subsequent data analysis and / or publication of results based on this experiment, and stored in electronic format indefinitely. If you have any questions, you may contact the requester through Prolific's platform, or directly at ac140440@uni-stuttgart.de.</p>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,6855,html-button-response,2,11617,0.0-0.0-2.0-0.0,"<p style='text-align:left'>Okay, so let's start with our practice round. You will see a picture showing a situation where there is an imagined conversation between two people, and a sentence that describes the context of the conversation.</p>            <p style='text-align:left'> You should read the sentence and then press continue. Let's try it out.</p>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,6863,html-button-response,3,18481,0.0-0.0-2.0-1.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p>,0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,15817,html-button-response,4,34299,0.0-0.0-2.0-2.0,"<p style='text-align:left'>Then, you will see the first part of the conversation. It will show up as a statement in the first speech bubble.</p>            <p style='text-align:left'> As before, just read this statement, and press continue.</p>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,10318,html-button-response,5,44617,0.0-0.0-2.0-3.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div>,0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,58471,html-button-response,6,103090,0.0-0.0-2.0-4.0,"<p style='text-align:left'>Finally, you will read the response. Now, you will be asked to give a rating of how natural the response sounds as a reaction to the first statement.</p>            <p style='text-align:left'> Read the response, adjust the slider to reflect how natural the sentence sounds to you, and then press continue.</p>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,10815,html-slider-response,7,113906,0.0-0.0-2.0-5.0,"<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div><div id='response' class='utterance'><p>Yeah, not even the most greedy ones.</p></div>",15,50,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,2983,html-button-response,8,116890,0.0-0.0-2.0-6.0,"<p style='text-align:left'>Great, this is what you will be doing in the study. Let's begin.</p>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,3367,html-button-response,9,120258,0.0-1.0-0.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,10407,html-button-response,10,130666,0.0-1.0-1.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the students in my class didn't improve their grades this semester.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,5632,html-slider-response,11,136298,0.0-1.0-2.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the students in my class didn't improve their grades this semester.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and we need to figure out why not.</p></div>
+            </div>",100,50,5,thinknot,whynot,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,37806,html-button-response,12,174106,0.0-1.0-0.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,6711,html-button-response,13,180818,0.0-1.0-1.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the coal miners talked to the press this week.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,13823,html-slider-response,14,194641,0.0-1.0-2.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the coal miners talked to the press this week.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the reporters understood why not.</p></div>
+            </div>",79,50,12,notthink,whynot,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,24568,html-button-response,15,219210,0.0-1.0-0.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,65495,html-button-response,16,284706,0.0-1.0-1.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the reporters interviewed the whistleblowers this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,11495,html-slider-response,17,296201,0.0-1.0-2.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the reporters interviewed the whistleblowers this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even the ones that are famous.</p></div>
+            </div>",50,50,10,notimpression,noteven,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,32904,html-button-response,18,329106,0.0-1.0-0.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,42255,html-button-response,19,371362,0.0-1.0-1.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the warehouse crew received benefits in this period.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,33033,html-slider-response,20,404395,0.0-1.0-2.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the warehouse crew received benefits in this period.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even their basic health insurance.</p></div>
+            </div>",94,50,4,doubt,noteven,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,5150,html-button-response,21,409546,0.0-1.0-0.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,29887,html-button-response,22,439434,0.0-1.0-1.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the volunteers performed many administrative tasks this month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,37119,html-slider-response,23,476554,0.0-1.0-2.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the volunteers performed many administrative tasks this month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even simple scheduling tasks.</p></div>
+            </div>",9,50,2,think,noteven,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,5680,html-button-response,24,482234,0.0-1.0-0.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,3919,html-button-response,25,486154,0.0-1.0-1.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the park rangers fed the lions this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,10407,html-slider-response,26,496562,0.0-1.0-2.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the park rangers fed the lions this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and I can imagine why not.</p></div>
+            </div>",75,50,7,disagree,whynot,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,2527,html-button-response,27,499090,0.0-1.0-0.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,6383,html-button-response,28,505474,0.0-1.0-1.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the new daytime drama on TV grew its viewership last month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,14663,html-slider-response,29,520138,0.0-1.0-2.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the new daytime drama on TV grew its viewership last month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even among their target audience.</p></div>
+            </div>",0,50,9,rumor,noteven,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,1919,html-button-response,30,522058,0.0-1.0-0.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,7807,html-button-response,31,529866,0.0-1.0-1.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the party planning committee made an effort this year.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,7015,html-slider-response,32,536882,0.0-1.0-2.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the party planning committee made an effort this year.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and it's pretty clear why not.</p></div>
+            </div>",0,50,1,wrong,whynot,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,3447,html-button-response,33,540329,0.0-1.0-0.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,7104,html-button-response,34,547434,0.0-1.0-1.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the home team warmed up their muscles before the game.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,5895,html-slider-response,35,553330,0.0-1.0-2.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the home team warmed up their muscles before the game.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the other team.</p></div>
+            </div>",100,50,11,notopinion,neither,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,1807,html-button-response,36,555138,0.0-1.0-0.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,8143,html-button-response,37,563282,0.0-1.0-1.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the defense lawyer's closing statement made an impact in this case.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,11871,html-slider-response,38,575154,0.0-1.0-2.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the defense lawyer's closing statement made an impact in this case.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and the jury foreperson explained why not.</p></div>
+            </div>",83,50,6,lie,whynot,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,12951,html-button-response,39,588106,0.0-1.0-0.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,8424,html-button-response,40,596531,0.0-1.0-1.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>The musicians stopped playing very famous pieces. Like the pianists really played Beethoven sonatas at the competition.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,11934,html-slider-response,41,608466,0.0-1.0-2.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>The musicians stopped playing very famous pieces. Like the pianists really played Beethoven sonatas at the competition.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the violinists.</p></div>
+            </div>",92,50,8,like,neither,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,2599,html-button-response,42,611066,0.0-1.0-0.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,4951,html-button-response,43,616018,0.0-1.0-1.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,5703,html-slider-response,44,621722,0.0-1.0-2.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the association of medical doctors.</p></div>
+            </div>",100,50,15,notbelieve,neither,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,3095,html-button-response,45,624818,0.0-1.0-0.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,11239,html-button-response,46,636058,0.0-1.0-1.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>The member states were not willing to make concrete commitments. As if the delegates really narrowed down possible target dates in the final resolution.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,12896,html-slider-response,47,648954,0.0-1.0-2.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>The member states were not willing to make concrete commitments. As if the delegates really narrowed down possible target dates in the final resolution.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the chair of the session.</p></div>
+            </div>",100,50,3,asif,neither,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,2359,html-button-response,48,651314,0.0-1.0-0.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,5479,html-button-response,49,656794,0.0-1.0-1.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,7359,html-slider-response,50,664154,0.0-1.0-2.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the guests at our yearly banquet received champagne as an aperitif.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the organizers.</p></div>
+            </div>",52,50,14,notview,neither,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,1447,html-button-response,51,665602,0.0-1.0-0.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,7287,html-button-response,52,672890,0.0-1.0-1.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the public universities had to follow the new tax laws.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,9272,html-slider-response,53,682162,0.0-1.0-2.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the public universities had to follow the new tax laws.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even the proficatble ones.</p></div>
+            </div>",93,50,13,notfeeling,noteven,NA,4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+NA,37842,survey,54,720044,0.0-2.0-0.0,NA,"{""P0_Q0"":null,""age"":""37"",""gender"":""female"",""language"":""no"",""amE"":""yes"",""comments"":""""}",NA,NA,NA,NA,[],4309f67f-4077-4234-9c73-620a6457acb4,2023-11-20 23:18:32 CET
+TRUE,4952,fullscreen,0,5971,0.0-0.0-0.0,NA,NA,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,162804,html-button-response,1,168783,0.0-0.0-1.0,"<p style='text-align:left'>In this experiment, you will read short conversations between two people. The first person always makes a statement, and the second responds to the first. We ask you to rate how natural the response to the statement is, on a slider from 'totally unnatural' to 'totally natural'.</p>          <p style='text-align:left'>In rating the responses, you should consider whether you might use these sentences or whether you think others might use them. There are no right or wrong answers here beyond your own intuition. You should answer each question as quickly as you can, but without rushing. Don't worry, this will be easy, and you will get a chance to practice this.</p>          <p style='text-align:left'> At the end of the experiment, we ask you some demographic questions (age, gender, native language).</p>          <h4>Consent to participate:</h4>          <p style='text-align:left' font size=""1""> By clicking on the button below you agree to participate in this experiment, which is conducted by researchers at the University of Stuttgart. Participation in this study should not consume more than 5 minutes of your time, and there are no risks or discomforts expected to result from participation. You are free to withdraw from this experiment at any time without penalty. Your data will be collected and treated anonymously and confidentially. It may be used for any subsequent data analysis and / or publication of results based on this experiment, and stored in electronic format indefinitely. If you have any questions, you may contact the requester through Prolific's platform, or directly at ac140440@uni-stuttgart.de.</p>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,18517,html-button-response,2,187305,0.0-0.0-2.0-0.0,"<p style='text-align:left'>Okay, so let's start with our practice round. You will see a picture showing a situation where there is an imagined conversation between two people, and a sentence that describes the context of the conversation.</p>            <p style='text-align:left'> You should read the sentence and then press continue. Let's try it out.</p>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,19667,html-button-response,3,206974,0.0-0.0-2.0-1.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p>,0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,28855,html-button-response,4,235834,0.0-0.0-2.0-2.0,"<p style='text-align:left'>Then, you will see the first part of the conversation. It will show up as a statement in the first speech bubble.</p>            <p style='text-align:left'> As before, just read this statement, and press continue.</p>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,15053,html-button-response,5,250890,0.0-0.0-2.0-3.0,<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div>,0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,17874,html-button-response,6,268767,0.0-0.0-2.0-4.0,"<p style='text-align:left'>Finally, you will read the response. Now, you will be asked to give a rating of how natural the response sounds as a reaction to the first statement.</p>            <p style='text-align:left'> Read the response, adjust the slider to reflect how natural the sentence sounds to you, and then press continue.</p>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,25344,html-slider-response,7,294113,0.0-0.0-2.0-5.0,"<div id='wrapper'><img id='scene' src='images/scenes.001.jpeg'><p id='context'>Two neighbors are discussing the healthcare costs in their local community.</p><div id='initiative' class='utterance'><p>The dentists in this town didn't charge the private patients a lot of money last year.</p></div><div id='response' class='utterance'><p>Yeah, not even the most greedy ones.</p></div>",80,50,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,3961,html-button-response,8,298076,0.0-0.0-2.0-6.0,"<p style='text-align:left'>Great, this is what you will be doing in the study. Let's begin.</p>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,5320,html-button-response,9,303402,0.0-1.0-0.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,22272,html-button-response,10,325678,0.0-1.0-1.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>Our catering company has worse service every time. Like the guests at our yearly banquet really received champagne as an aperitif.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,28408,html-slider-response,11,354090,0.0-1.0-2.0,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.006.jpeg>
+              <p id=""context"">Two event organizers are talking about a recent fundraiser.</p>
+              <div id=""initiative"" class=""utterance""><p>Our catering company has worse service every time. Like the guests at our yearly banquet really received champagne as an aperitif.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the organizers.</p></div>
+            </div>",5,50,14,like,neither,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,4796,html-button-response,12,358889,0.0-1.0-0.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,8690,html-button-response,13,367581,0.0-1.0-1.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the students in my class improved their grades this semester.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,16097,html-slider-response,14,383681,0.0-1.0-2.1,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.004.jpeg>
+              <p id=""context"">Two teachers are discussing their students' progress.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the students in my class improved their grades this semester.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even after extensive tutoring.</p></div>
+            </div>",0,50,5,think,noteven,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,7680,html-button-response,15,391363,0.0-1.0-0.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,8018,html-button-response,16,399383,0.0-1.0-1.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the delegates narrowed down possible target dates in the final resolution.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,13520,html-slider-response,17,412906,0.0-1.0-2.2,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.014.jpeg>
+              <p id=""context"">Two journalists are discussing the results of the recent international climate summit.</p>
+              <div id=""initiative"" class=""utterance""><p>I disagree that the delegates narrowed down possible target dates in the final resolution.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the chair of the session.</p></div>
+            </div>",78,50,3,disagree,neither,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,8254,html-button-response,18,421163,0.0-1.0-0.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,8450,html-button-response,19,429615,0.0-1.0-1.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the new daytime drama on TV grew its viewership last month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,7721,html-slider-response,20,437340,0.0-1.0-2.3,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.009.jpeg>
+              <p id=""context"">Two television executives are discussing the success of the shows on their channel.</p>
+              <div id=""initiative"" class=""utterance""><p>It's a lie that the new daytime drama on TV grew its viewership last month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even among their target audience.</p></div>
+            </div>",100,50,9,lie,noteven,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,5050,html-button-response,21,442392,0.0-1.0-0.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,20020,html-button-response,22,462414,0.0-1.0-1.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I bet some of our colleagues are involved in the cover-up. As if the reporters really interviewed the whistleblowers this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,22339,html-slider-response,23,484755,0.0-1.0-2.4,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.008.jpeg>
+              <p id=""context"">Two journalists are following the developments in a high-profile scandal.</p>
+              <div id=""initiative"" class=""utterance""><p>I bet some of our colleagues are involved in the cover-up. As if the reporters really interviewed the whistleblowers this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and we can only guess why not.</p></div>
+            </div>",20,50,10,asif,whynot,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,10183,html-button-response,24,494940,0.0-1.0-0.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,9418,html-button-response,25,504360,0.0-1.0-1.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the warehouse crew received benefits in this period.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,25647,html-slider-response,26,530010,0.0-1.0-2.5,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.010.jpeg>
+              <p id=""context"">Two union representatives are discussing some concerns that have been raised by the employees of a car factory.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my view that the warehouse crew received benefits in this period.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the office workers.</p></div>
+            </div>",6,50,4,notview,neither,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,8851,html-button-response,27,538864,0.0-1.0-0.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,10138,html-button-response,28,549004,0.0-1.0-1.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the home team didn't warm up their muscles before the game.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,7515,html-slider-response,29,556520,0.0-1.0-2.6,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.003.jpeg>
+              <p id=""context"">Two guests at a soccer match are discussing the players pre-game routine.</p>
+              <div id=""initiative"" class=""utterance""><p>I think that the home team didn't warm up their muscles before the game.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the other team.</p></div>
+            </div>",95,50,11,thinknot,neither,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,3630,html-button-response,30,560152,0.0-1.0-0.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,7241,html-button-response,31,567397,0.0-1.0-1.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,8218,html-slider-response,32,575617,0.0-1.0-2.7,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.012.jpeg>
+              <p id=""context"">Two medical researchers are discussing what happened at a recent conference.</p>
+              <div id=""initiative"" class=""utterance""><p>I heavily doubt that the pharmacists discussed potential side effects of the medicine at the conference.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even after they were pointed out publicly.</p></div>
+            </div>",100,50,15,doubt,noteven,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,7135,html-button-response,33,582754,0.0-1.0-0.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,10357,html-button-response,34,593113,0.0-1.0-1.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the volunteers performed many administrative tasks this month.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,16021,html-slider-response,35,609136,0.0-1.0-2.8,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.015.jpeg>
+              <p id=""context"">Two board members of an NGO are discussing how things went in their organization during the past month.</p>
+              <div id=""initiative"" class=""utterance""><p>It's not my opinion that the volunteers performed many administrative tasks this month.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and I'm left wondering why not.</p></div>
+            </div>",71,50,2,notopinion,whynot,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,3620,html-button-response,36,612758,0.0-1.0-0.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,7840,html-button-response,37,620602,0.0-1.0-1.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the defense lawyer's closing statement made an impact in this case.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,6275,html-slider-response,38,626880,0.0-1.0-2.9,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.005.jpeg>
+              <p id=""context"">Two law students are discussing a precedent case study.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't believe that the defense lawyer's closing statement made an impact in this case.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and neither did the testimonies.</p></div>
+            </div>",100,50,6,notbelieve,neither,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,7039,html-button-response,39,633924,0.0-1.0-0.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,4966,html-button-response,40,638892,0.0-1.0-1.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the coal miners talked to the press this week.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,9982,html-slider-response,41,648878,0.0-1.0-2.10,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.011.jpeg>
+              <p id=""context"">Two labor activitsts are discussing the developments during a strike in the mining industry.</p>
+              <div id=""initiative"" class=""utterance""><p>You're wrong that the coal miners talked to the press this week.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even after many requests.</p></div>
+            </div>",100,50,12,wrong,noteven,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,4544,html-button-response,42,653425,0.0-1.0-0.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,11283,html-button-response,43,664710,0.0-1.0-1.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the public universities had to follow the new tax laws.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,29554,html-slider-response,44,694268,0.0-1.0-2.11,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.002.jpeg>
+              <p id=""context"">Two tax consultants are discussing tax regulations for public institutions.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the impression that the public universities had to follow the new tax laws.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, not even the proficatble ones.</p></div>
+            </div>",75,50,13,notimpression,noteven,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,4881,html-button-response,45,699152,0.0-1.0-0.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,6252,html-button-response,46,705406,0.0-1.0-1.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the pianists played Beethoven sonatas at the competition.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,16262,html-slider-response,47,721673,0.0-1.0-2.12,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.007.jpeg>
+              <p id=""context"">Two classical music enthusiasts discuss an event they attended together.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't get the feeling that the pianists played Beethoven sonatas at the competition.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and I think I can guess why not.</p></div>
+            </div>",89,50,8,notfeeling,whynot,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,3674,html-button-response,48,725350,0.0-1.0-0.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,10176,html-button-response,49,735528,0.0-1.0-1.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the park rangers fed the lions this morning.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,11750,html-slider-response,50,747281,0.0-1.0-2.13,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.013.jpeg>
+              <p id=""context"">Two members of the administrative staff at a wildlife reserve are discussing animal care.</p>
+              <div id=""initiative"" class=""utterance""><p>I don't think that the park rangers fed the lions this morning.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and I can imagine why not.</p></div>
+            </div>",9,50,7,notthink,whynot,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,5007,html-button-response,51,752291,0.0-1.0-0.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,6887,html-button-response,52,759180,0.0-1.0-1.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the party planning committee made an effort this year.</p></div>
+            </div>",0,NA,NA,NA,NA,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,8382,html-slider-response,53,767564,0.0-1.0-2.14,"
+            <div id=""wrapper"">
+              <img id=""scene"" src=images/scenes.001.jpeg>
+              <p id=""context"">Two colleagues are talking about what happened at the company Christmas party.</p>
+              <div id=""initiative"" class=""utterance""><p>It's just a rumor that the party planning committee made an effort this year.</p></div>
+              <div id=""response"" class=""utterance""><p>Yeah, and it's pretty clear why not.</p></div>
+            </div>",5,50,1,rumor,whynot,NA,30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
+NA,33480,survey,54,801163,0.0-2.0-0.0,NA,"{""P0_Q0"":null,""age"":""23"",""gender"":""female"",""language"":""yes"",""amE"":""yes"",""comments"":""""}",NA,NA,NA,NA,[],30b8c0be-8fc5-4ec0-9aad-9e3897c3536e,2023-11-20 23:18:38 CET
