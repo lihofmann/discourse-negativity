@@ -49,6 +49,7 @@
           headers: {"Content-Type": "text/csv"},
           body:    data
         })
+        await new Promise(r => setTimeout(r, 4000));
         document.getElementById("jspsych-content").innerHTML = await response.text();
       }
       
@@ -56,9 +57,9 @@
       var jsPsych = initJsPsych({
         show_progress_bar: true,
         auto_update_progress_bar: false,
-        on_finish: function(){
+        on_finish: async function(){
           // jsPsych.data.get().localSave('csv','mydata.csv');
-          saveData(jsPsych.data.get().csv());
+          await saveData(jsPsych.data.get().csv());
           window.location = "https://app.prolific.co/submissions/complete?cc=CEPWIL3L"
         }
       });
